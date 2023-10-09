@@ -1,0 +1,19 @@
+.scrollButton {
+  border-radius: 24px;
+  padding: 12px;
+  background-color: #ff7538;
+  display: flex;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  transition: opacity 0.7s;
+  position: fixed;
+  bottom: 45px;
+  left: 45px;
+  display: none;
+}
+.scrollButton:hover {
+  opacity: 0.7;
+}
+
+/*# sourceMappingURL=index.css.map */

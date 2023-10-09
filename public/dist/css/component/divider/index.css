@@ -1,0 +1,18 @@
+.divider {
+  padding: 8px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  background-color: #F2F2F2;
+  margin: 56px 0;
+}
+.divider__text {
+  font-size: 18px;
+  color: #1C2752;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+
+/*# sourceMappingURL=index.css.map */
